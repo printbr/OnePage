@@ -204,7 +204,7 @@ p {
 	height: 400px;
 	width: 1000px;
 	background-size: cover;
-	background-position: center;
+	background-position: center,center;
 	position: center;
 	z-index: 1;
 }
