@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: rgba(128,128,128);
+	background-color: rgba(255,255,255);
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
