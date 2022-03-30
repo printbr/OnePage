@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: crimson;
+	color: black;
 }
 
 /* Header section */
@@ -87,7 +87,7 @@ p {
 }
 #header .nav-bar {
 	display: flex;
-	align-items: left;
+	align-items: center;
 	justify-content: space-between;
 	width: 100%;
 	height: 100%;
