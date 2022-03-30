@@ -218,7 +218,7 @@ p {
 	z-index: -1;
 }
 #home .home {
-	max-width: 1200px;
+	max-width: 600px;
 	margin: 0 auto;
 	padding: 0 50px;
 	justify-content: flex-start;
@@ -248,7 +248,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: crimson;
+	background-color: black;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
