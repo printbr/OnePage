@@ -161,7 +161,7 @@ p {
 	height: 2px;
 	width: 30px;
 	position: relative;
-	background-color: black;
+	background-color: crimson;
 	z-index: -1;
 }
 #header .menu .bar::after,
