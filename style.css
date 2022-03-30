@@ -201,7 +201,7 @@ p {
 /* Home Section */
 #home {
 	background-image: url(./img/1.jpg);
-	background-size: auto;
+	background-size: cover;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
