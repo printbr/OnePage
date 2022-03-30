@@ -208,7 +208,7 @@ p {
 }
 #home::after {
 	content: '';
-	position: static;
+	position: absolute;
 	left: 0;
 	top: 0;
 	height: 100%;
