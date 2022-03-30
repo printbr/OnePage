@@ -65,7 +65,7 @@ p {
 .brand {
 	font-size: 0,5rem;
 	text-transform: uppercase;
-	color: white;
+	color: black;
 }
 .brand {
 	color: black;
@@ -170,7 +170,7 @@ p {
 	height: 2px;
 	width: 30px;
 	position: relative;
-	background-color: white;
+	background-color: black;
 	z-index: -1;
 }
 #header .menu .bar::after,
@@ -180,7 +180,7 @@ p {
 	height: 100%;
 	width: 100%;
 	left: 0;
-	background-color: white;
+	background-color: black;
 	transition: 0.3s ease;
 	transition-property: top, bottom;
 }
