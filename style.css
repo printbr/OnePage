@@ -63,8 +63,9 @@ p {
 	background-color: crimson;
 }
 .brand {
-	height: 141px;
-  	width: 111%;
+	font-size: 1rem;
+	text-transform: uppercase;
+	color: white;
 }
 .brand {
 	color: white;
