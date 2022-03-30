@@ -87,7 +87,7 @@ p {
 }
 #header .nav-bar {
 	display: flex;
-	align-items: center;
+	align-items: left;
 	justify-content: space-between;
 	width: 100%;
 	height: 100%;
