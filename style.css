@@ -158,8 +158,8 @@ p {
 	margin-right: 20px;
 }
 #header .menu:after {
-	position: absolute;
-	content: '';
+	position: relative;
+	content: attr(data-after);
 	height: 100%;
 	width: 100%;
 	border-radius: 50%;
