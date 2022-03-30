@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: gray;
+	color: black;
 }
 #header .menu {
 	height: 60px;
