@@ -202,7 +202,7 @@ p {
 #home {
 	background-image: url(./img/1.jpg);
 	background-size: cover;
-	background: no-repeat center;
+	background: center;
 	background-position: center;
 	position: center;
 	z-index: 1;
