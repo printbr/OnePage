@@ -62,12 +62,12 @@ p {
 	color: white;
 	background-color: crimson;
 }
-.brand h1 {
-	font-size: 3rem;
+.brand h3 {
+	font-size: 2rem;
 	text-transform: uppercase;
 	color: white;
 }
-.brand h1 span {
+.brand h3 span {
 	color: white;
 }
 
