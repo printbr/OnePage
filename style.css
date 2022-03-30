@@ -193,7 +193,7 @@ p {
 #home {
 	background-image: url(./img/back.jpg);
 	background-size: cover;
-	background-position: top center;
+	background-position: top,center;
 	position: relative;
 	z-index: 1;
 }
