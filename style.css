@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: crimson;
+	color: gray;
 }
 #header .menu {
 	height: 60px;
@@ -163,9 +163,8 @@ p {
 	height: 100%;
 	width: 100%;
 	border-radius: 50%;
-	border: 3px solid white;
+	border: 3px solid black;
 	animation: bounce 1s infinite alternate;
-  	-webkit-animation: bounce 1s infinite alternate;
 }
 #header .menu .bar {
 	height: 2px;
