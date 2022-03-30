@@ -149,7 +149,6 @@ p {
 	border: 3px solid white;
 	border-radius: 50%;
 	position: relative;
-	left: 30%
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -165,7 +164,8 @@ p {
 	width: 100%;
 	border-radius: 50%;
 	border: 3px solid white;
-	animation: hamburger_puls 1s ease infinite;
+	animation: bounce 1s infinite alternate;
+  	-webkit-animation: bounce 1s infinite alternate;
 }
 #header .menu .bar {
 	height: 2px;
