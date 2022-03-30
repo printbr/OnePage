@@ -140,13 +140,13 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: black;
+	color: crimson;
 }
 #header .menu {
 	height: 60px;
 	width: 60px;
 	display: inline-block;
-	border: 3px solid black;
+	border: 3px solid crimson;
 	border-radius: 50%;
 	position: relative;
 	display: flex;
