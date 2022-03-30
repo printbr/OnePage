@@ -205,7 +205,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-color: black;
-	opacity: 1.5;
+	opacity: 0.7;
 	z-index: -1;
 }
 #home .home {
@@ -239,7 +239,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: white;
+	background-color: crimson;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
