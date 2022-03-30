@@ -205,7 +205,7 @@ p {
 	width: 1000px;
 	background-size: cover;
 	background-position: center;
-	position: relative;
+	position: center;
 	z-index: 1;
 }
 #home::after {
