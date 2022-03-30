@@ -42,13 +42,13 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: white;
+	color: black;
 }
 
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
-	color: white;
+	color: back;
 	background-color: transparent;
 	border: 2px solid crimson;
 	font-size: 2rem;
@@ -59,7 +59,7 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
+	color: black;
 	background-color: crimson;
 }
 .brand {
@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand {
-	color: white;
+	color: black;
 }
 
 /* Header section */
